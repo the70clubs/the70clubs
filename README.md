@@ -1,9 +1,9 @@
 ## Hey 👋 What's up?
 
-- 🧠 I’m currently working on my Cybersecurity + DevSecOps skills as a sophomore.
-- 🌱 I’m currently learning computer science, web development, ethical hacking, digital forensics, cloud computing and machine learning.
-- 🧑‍💻 I’m looking to collaborate on unique projects that dare to #MakeADifference.
-- 💬 Ask me about cybersecurity best practices, upcoming trends in the field, or my journey towards becoming a cybersecurity consultant.
+- 🧠 I’m currently Majoring in cybersecurity as a sophomore at Victroria University, Melbourne, VU
+- 🌱 I’m currently learning GRC, IAM, DevSecOps, ML, SIEM and CTI.
+- 🧑‍💻 I’m looking to collaborate on unique projects that dare to #MakeADifference
+- 💬 Ask me about cybersecurity, trends in the field, or my journey towards becoming a Governance, Risk, and Compliance (GRC) analyst.
 - 📫 Reach me: <a href="https://www.linkedin.com/in/the70clubs">LinkedIn</a>
 - ⚡ Fun fact: I paint, quiet a lot.
 
