@@ -1,6 +1,6 @@
 ## Hey 👋 What's up?
 
-- 🧠 I’m currently Majoring in cybersecurity as a sophomore at Victroria University, Melbourne, VU
+- 🧠 I’m currently Majoring in cybersecurity as a sophomore at Victroria University, Melbourne, AU
 - 🌱 I’m currently learning GRC, IAM, DevSecOps, ML, SIEM and CTI.
 - 🧑‍💻 I’m looking to collaborate on unique projects that dare to #MakeADifference
 - 💬 Ask me about cybersecurity, trends in the field, or my journey towards becoming a Governance, Risk, and Compliance (GRC) analyst.
